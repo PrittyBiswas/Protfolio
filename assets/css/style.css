@@ -92,14 +92,18 @@ article {
   background: var(--jet);
   margin: 16px 0;
 }
+
 ul#all-item {
   display: flex;
   align-items: center;
 }
+
 li#skills-item-icon {
   padding: 0.7rem;
 }
-.icon-box ,#icon-box {
+
+.icon-box,
+#icon-box {
   position: relative;
   background: var(--border-gradient-onyx);
   width: 30px;
@@ -1234,9 +1238,10 @@ textarea.form-input::-webkit-resizer {
     height: 5px;
   }
 
-  
 
-  .icon-box,#icon-box {
+
+  .icon-box,
+  #icon-box {
     width: 48px;
     height: 48px;
     border-radius: 12px;
@@ -1271,11 +1276,11 @@ textarea.form-input::-webkit-resizer {
   }
 
   .sidebar-info {
-    gap: 25px;
+    gap: 15px;
   }
 
   .avatar-box {
-    border-radius: 57px;
+    border-radius: 108px;
   }
 
   .avatar-box img {
@@ -1284,11 +1289,13 @@ textarea.form-input::-webkit-resizer {
   }
 
   .info-content .name {
-    margin-bottom: 15px;
+    margin-bottom: 5px;
   }
 
   .info-content .title {
-    padding: 5px 18px;
+    padding: 5px 5px 25px;
+    color: aqua;
+    font-size: medium;
   }
 
   .info_more-btn {
@@ -1838,7 +1845,7 @@ textarea.form-input::-webkit-resizer {
     max-height: max-content;
     height: 100%;
     margin-bottom: 0;
-    padding-top: 60px;
+    padding-top: 20px;
     z-index: 1;
     background: #373434;
     FONT-WEIGHT: 200;
@@ -1850,8 +1857,9 @@ textarea.form-input::-webkit-resizer {
   }
 
   .avatar-box img {
-    width: 150px;
+    width: 190px;
     box-shadow: -1px 1px 10px -4px aqua;
+    height: 200px;
   }
 
   .info-content .name {
