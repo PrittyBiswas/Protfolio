@@ -12,7 +12,7 @@ I focus on writing clean, maintainable code and building responsive, production-
 🚀 Building impactful and scalable web applications
 📚 Currently improving DSA & system design skills
 
-🌐 Portfolio: https://phenomenal-malasada-f5bb5f.netlify.app/
+🌐 Portfolio: https://harmonious-lolly-3fe390.netlify.app/
 
 🛠 Tech Stack
 💻 Frontend
